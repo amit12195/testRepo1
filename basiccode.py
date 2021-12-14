@@ -1,1 +1,3 @@
-print('Welocme to India')
+print('Welcome to India')
+print()
+print('Good afternoon!!')
